@@ -1,17 +1,19 @@
 # NTCNS01_NHOM01_BAITHUCHANH09_CTU
+Học phần: Nền tảng công nghệ số 
+Giảng viên: ThS Nguyễn Minh Trung
+Sinh viên: Nguyễn Phát Đạt B2504789, Dương Văn Thành Hiệu B2504794, Nguyễn Ngọc Diệp B2504786, Nguyễn Tuấn Anh B2504784
 
 Lab 09 – Bảo mật thông tin và Sức khỏe số
 
-Giới thiệu
+- Giới thiệu
 
 Nội dung bài thực hành giúp sinh viên hiểu các rủi ro khi sử dụng Internet và mạng xã hội, nhận biết các nguy cơ mất an toàn thông tin cá nhân, đồng thời rèn luyện các kỹ năng bảo vệ tài khoản và quản lý sức khỏe số trong quá trình sử dụng thiết bị công nghệ.
 
-Mục tiêu
+- Mục tiêu
 
 Sau khi hoàn thành bài thực hành, sinh viên có thể: hiểu các khái niệm cơ bản về bảo mật thông tin cá nhân, nhận diện các nguy cơ phổ biến trên Internet như phishing, lộ mật khẩu hoặc đánh cắp dữ liệu, biết cách tạo và quản lý mật khẩu mạnh, áp dụng xác thực hai lớp (2FA) cho tài khoản cá nhân, nhận biết email và website lừa đảo, đồng thời xây dựng thói quen sử dụng công nghệ hợp lý nhằm bảo vệ sức khỏe số.
 
-Nội dung bài thực hành
-
+- Nội dung bài thực hành
 
 
 Tiết 1 – Tự khám phá rủi ro an ninh số
