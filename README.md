@@ -1,6 +1,9 @@
 # NTCNS01_NHOM01_BAITHUCHANH09_CTU
+
 Học phần: Nền tảng công nghệ số 
+
 Giảng viên: ThS Nguyễn Minh Trung
+
 Sinh viên: Nguyễn Phát Đạt B2504789, Dương Văn Thành Hiệu B2504794, Nguyễn Ngọc Diệp B2504786, Nguyễn Tuấn Anh B2504784
 
 Lab 09 – Bảo mật thông tin và Sức khỏe số
