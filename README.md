@@ -6,6 +6,7 @@ Giảng viên: ThS Nguyễn Minh Trung
 
 Sinh viên: Nguyễn Phát Đạt B2504789, Dương Văn Thành Hiệu B2504794, Nguyễn Ngọc Diệp B2504786, Nguyễn Tuấn Anh B2504784
 
+
 Lab 09 – Bảo mật thông tin và Sức khỏe số
 
 - Giới thiệu
@@ -39,10 +40,10 @@ Tiết 5 – Dự án tình huống và phản biện
 
 Ở phần cuối, mỗi nhóm nhận một tình huống thực tế liên quan đến an toàn thông tin, ví dụ như tài khoản bị hack, bị lộ ảnh riêng tư, bị lừa nhấp vào link giả mạo hoặc nghiện game. Các nhóm xây dựng một kịch bản ngắn và trình bày tình huống bằng hình thức đóng vai trong khoảng 5 phút, sau đó đưa ra giải pháp xử lý. Những nhóm còn lại sẽ tham gia phản biện và bổ sung ý kiến để hoàn thiện phương án giải quyết. Sản phẩm của phần này có thể là video, clip hoặc kịch bản tình huống kèm theo phần thảo luận.
 
-Công cụ sử dụng
+- Công cụ sử dụng
 
 Một số công cụ được sử dụng bao gồm Google Forms để khảo sát, VirusTotal và Google Safe Browsing để kiểm tra đường link, Screen Time hoặc Digital Wellbeing để theo dõi thời gian sử dụng thiết bị, cùng với các công cụ thiết kế như PowerPoint hoặc Canva để tạo poster và infographic.
 
-Kết luận
+- Kết luận
 
 Thông qua Lab 09, sinh viên không chỉ được tìm hiểu các nguy cơ bảo mật trên môi trường số mà còn được rèn luyện các kỹ năng cần thiết để bảo vệ thông tin cá nhân và duy trì thói quen sử dụng công nghệ lành mạnh. Những kiến thức và kỹ năng này giúp sinh viên sử dụng Internet một cách an toàn, hiệu quả và có trách nhiệm hơn trong cuộc sống học tập và làm việc.
